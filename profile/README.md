@@ -92,7 +92,7 @@ npm run start
 
 | 위치                                         | 설명                       |
 | ------------------------------------------ | ------------------------ |
-| [frontend/README.md](github.com/aivle7th-miniProject4-16/frontend/blob/main/README.md) | UI 구조, OpenAI 연동, 사용자 흐름 |
+| [frontend/README.md](https://github.com/aivle7th-miniProject4-16/frontend/blob/main/README.md) | UI 구조, OpenAI 연동, 사용자 흐름 |
 | [backend/README.md](./backend/README.md)   | API 명세, DB 모델, 서버 구성 설명  |
 
 ---
